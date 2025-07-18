@@ -1,4 +1,5 @@
-## Hi there 👋, some information about me:
+## Hi there 👋
+Some information about me:
 ------------------------------
 
 BMSTU student: Applied Informatics
