@@ -1,8 +1,7 @@
-## Hi there 👋
-Some information about me:
+## Hi there 👋, some information about me:
 ------------------------------
 
-BMSTU student: Aply Informatics
+BMSTU student: Applied Informatics
 
 Trying to become a GO backend developer
 
