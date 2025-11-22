@@ -1,5 +1,5 @@
 # About Me:
-BMSTU student: Applied Informatics<br><br>I am GO backend developer<br><br>🌍  I'm based in Moscow<br>✉️  You can contact me at [kerimovemil187@gmail.com](mailto:kerimovemil187@gmail.com)<br>🚀  I'm currently working on [p2p-messenger](http://github.com/Flek55/p2p-backend)<br>🧠  I'm learning Learning GO, С/С++/С#<br>🤝  I'm open to collaborating on anything
+BMSTU student: Applied Informatics<br><br>I am GO backend developer<br><br>🌍  I'm based in Moscow<br>✉️  You can contact me at [kerimovemil187@gmail.com](mailto:kerimovemil187@gmail.com)<br>🧠  I'm learning Learning GO, С/С++/С#<br>🤝  I'm open to collaborating on anything
 
 
 ## Socials:
